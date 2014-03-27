@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component-set>
+  <components>
+    <component>
+      <role>org.apache.maven.lifecycle.Lifecycle</role>
+      <implementation>org.apache.maven.lifecycle.Lifecycle</implementation>
+      <role-hint>format</role-hint>
+      <configuration>
+        <id>format</id>
+        <phases>
+          <phase>pre-format</phase>
+          <phase>format</phase>
+          <phase>post-format</phase>
+        </phases>
+      </configuration>
+    </component>
+  </components>
+</component-set>
