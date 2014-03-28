@@ -28,7 +28,7 @@ To add this extension to your project, add the following extensions block to you
       <extension>
         <groupId>com.xiantrimble.maven</groupId>
         <artifactId>maven-format-lifecycle</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0</version>
       </extension>
     </extensions>
   </build>
