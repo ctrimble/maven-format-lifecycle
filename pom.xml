@@ -9,7 +9,7 @@
 
   <groupId>com.xiantrimble.maven</groupId>
   <artifactId>maven-format-lifecycle</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Maven Format Lifecycle</name>
