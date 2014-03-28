@@ -52,7 +52,7 @@ To bind plugin executions to this lifecycle, add an `<execution/>` block to the 
 
 ### Adding License Headers
 
-The [com.mycila:license-maven-plugin](http://code.mycila.com/license-maven-plugin/) to add license files like this:
+The [com.mycila:license-maven-plugin](http://code.mycila.com/license-maven-plugin/) can be used to manage your license headers:
 
 ```xml
 <plugin>
